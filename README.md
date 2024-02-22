@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a sample budget management application that has been independently tested for functionality and usability.
+This repository contains a sample budget management application that has been independently tested for functionality and usability. This was an opportunity for me to demonstrate my proficiency in writing scenarios and test cases based on received technical documentation, conducting tests, generating test reports, and reporting identified bugs. It showcases my ability to navigate through the testing process effectively and thoroughly assess the application's performance
 
 ## Links
 
